@@ -13,3 +13,5 @@ Pandas
 NumPy
 Matplotlib
 
+![](https://github.com/Kash1444/Predict-Home-Prices/blob/f9feb5c7e555687eaba34de228b84ae3174d53e1/data.gif)
+
