@@ -13,5 +13,12 @@ Pandas
 NumPy
 Matplotlib
 
+### -> data set
 ![](https://github.com/Kash1444/Predict-Home-Prices/blob/f9feb5c7e555687eaba34de228b84ae3174d53e1/data.gif)
+
+### -> source code
+[sourcecode_link](https://raw.githubusercontent.com/codedex-io/projects/main/projects/predict-home-prices-with-python-and-linear-regression/linear_regression.py)
+
+### -> Final Prediction of Home Prices
+![](https://raw.githubusercontent.com/codedex-io/projects/main/projects/predict-home-prices-with-python-and-linear-regression/graph.png)
 
